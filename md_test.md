@@ -11,7 +11,7 @@ A tool for creating and publishing beautiful technical content
   * [AsciiDoc](http://www.methods.co.nz/asciidoc/)
   * [DocBook](http://www.docbook.org/)
   * [MarkDown](http://daringfireball.net/projects/markdown/)
-* Transformation engines based on a theme
+* Transformation engines based on a customizable theme
   * PDF
   * EPUB 
   * Mobi
