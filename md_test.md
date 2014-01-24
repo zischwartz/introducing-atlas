@@ -10,4 +10,4 @@
 
 Here's another slide!
 
-![images/scatterplot_atlas_presentation.png](images/scatterplot_atlas_presentation.png)
+![output3.gif](output3.gif)
