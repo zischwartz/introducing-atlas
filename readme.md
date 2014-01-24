@@ -47,7 +47,7 @@ Because it's based on git, you can easily open your content for contrinutions fr
 
 ![images/etudes_for_erlang_github.png](images/etudes_for_erlang_github.png)
 
-# Register for the beta
+# Sign up now
 
 Use the form below to pre-register for the Atlas beta.
 
