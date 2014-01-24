@@ -30,3 +30,7 @@ If you don't like plain text markup, Atlas has a beautiful visual editor.
 ![insert_image_optimized.gif](insert_image_optimized.gif)
 
 # Open source your book on GitHub
+
+# Register for the beta
+
+(I'll embed the mailchimp form here)
