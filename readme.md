@@ -36,7 +36,7 @@ You can build a web site like this [Raspberry Pi Cookbook Sampler](http://razzpi
 
 ![images/make_site.gif](images/make_site.gif)
 
-# Write in a truly visual editor
+# Write in a beautiful visual editor
 
 If you don't like plain text markup, Atlas has a beautiful visual editor.
 
