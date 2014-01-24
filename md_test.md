@@ -6,7 +6,7 @@ A tool for creating and publishing beautiful technical content
 
 # Atlas embodies 3 key ideas
 * Everything is in version control using [git](http://git-scm.com/)
-* A single source of content in a semantic format
+* You create a single source of content in a semantic format
   * [HTMLBook](https://github.com/oreillymedia/htmlbook)
   * [AsciiDoc](http://www.methods.co.nz/asciidoc/)
   * [DocBook](http://www.docbook.org/)
