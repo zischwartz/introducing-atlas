@@ -1,6 +1,6 @@
 # Atlas is...
 
-[O'Reilly Atlas](https://atlas.oreilly.com) is a tool for creating and publishing beautiful technical content
+[O'Reilly Atlas](https://atlas.oreilly.com) is a tool for creating and publishing beautiful technical content.
 
 ![images/system_intro_optimized.gif](images/system_intro.gif)
 
