@@ -1,19 +1,23 @@
 # Atlas is...
 
-* A tool for creating and publishing rich technical information
+* A tool for creating and publishing beautiful technical information
 
-# Based on 3 key ideas
-* Version control through [git](http://git-scm.com/)
-* Semantic markup
+![images/system_intro_optimized.gif](images/system_intro_optimized.gif)
+
+# Atlas has 3 key ideas
+* A single source of content in a semantic format
 ** [HTMLBook](https://github.com/oreillymedia/htmlbook)
 ** [AsciiDoc](http://www.methods.co.nz/asciidoc/)
 ** [DocBook](http://www.docbook.org/)
 ** [MarkDown](http://daringfireball.net/projects/markdown/)
-* Transformation engines
+* Version control using [git](http://git-scm.com/)
+* Transformation engines based on a theme
 ** PDF
 ** EPUB 
 ** Mobi
 ** HTML
+
+# You can make books
 
 # Add an Image
 
@@ -23,8 +27,3 @@
 
 ![insert_image_optimized.gif](insert_image_optimized.gif)
 
-# Another slide
-
-Here's another slide!
-
-![output3.gif](output3.gif)
