@@ -4,7 +4,7 @@
 * Find the image
 * Drag it over 
 
-![images/build_atlas_presentation.png](images/build_atlas_presentation.png)
+![insert_image_optimized.gif](insert_image_optimized.gif)
 
 # Another slide
 
