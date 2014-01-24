@@ -5,6 +5,7 @@
 ![images/system_intro_optimized.gif](images/system_intro.gif)
 
 # Atlas embodies 3 key ideas
+
 * Version control using [git](http://git-scm.com/)
 * A single source of content in a semantic format
   * [HTMLBook](https://github.com/oreillymedia/htmlbook)
