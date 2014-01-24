@@ -23,7 +23,7 @@ A tool for creating and publishing beautiful technical content
 
 # Make sites
 
-# Write with a turly visual editor
+# Write with a truly visual editor
 
 If you don't like plain text markup, Atlas has a beautiful visual editor.
 
