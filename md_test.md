@@ -2,7 +2,7 @@
 
 * A tool for creating and publishing beautiful technical information
 
-![images/system_intro_optimized.gif](images/system_intro_optimized.gif)
+![images/system_intro_optimized.gif](images/system_intro.gif)
 
 # Atlas has 3 key ideas
 * A single source of content in a semantic format
