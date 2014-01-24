@@ -27,6 +27,8 @@ Atlas produces professional-caliber PDFs that can be printed on demand (POD) or 
 
 Atlas produces both EPUB and MOBI, the formats used for the iBooks and Kindle.
 
+![images/make_book_short.gif](images/make_book_short.gif)
+
 # Make sites
 
 
