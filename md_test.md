@@ -19,9 +19,13 @@ A tool for creating and publishing beautiful technical content
 
 # Make books
 
+Atlas produces professional-caliber PDFs that can be printed on demand (POD) or via a tradional offset process.
+
 # Make ebooks
 
 # Make sites
+
+
 
 # Write with a truly visual editor
 
