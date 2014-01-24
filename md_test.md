@@ -1,6 +1,6 @@
 # Atlas is...
 
-* A tool for creating and publishing beautiful technical information
+A tool for creating and publishing beautiful technical content
 
 ![images/system_intro_optimized.gif](images/system_intro.gif)
 
