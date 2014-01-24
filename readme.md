@@ -21,6 +21,8 @@ A tool for creating and publishing beautiful technical content
 
 Atlas produces professional-caliber PDFs that can be printed on demand (POD) or via a tradional offset process.
 
+![images/make_book_short.gif](images/make_book_short.gif)
+
 # Make ebooks
 
 Atlas produces both EPUB and MOBI, the formats used for the iBooks and Kindle.
