@@ -25,9 +25,7 @@ A tool for creating and publishing beautiful technical content
 
 # Write with a turly visual editor
 
-* Open the file pane
-* Find the image
-* Drag it over 
+If you don't like plain text markup, Atlas has a beautiful visual editor.
 
 ![insert_image_optimized.gif](insert_image_optimized.gif)
 
