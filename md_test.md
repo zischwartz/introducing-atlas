@@ -39,4 +39,6 @@ If you don't like plain text markup, Atlas has a beautiful visual editor.
 
 # Register for the beta
 
+{% include 'mailchimp_form.html' %}
+
 
