@@ -19,6 +19,10 @@
 
 # You can make books
 
+# Make ebooks
+
+# Make web sites
+
 # Add an Image
 
 * Open the file pane
