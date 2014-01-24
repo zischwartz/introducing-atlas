@@ -35,12 +35,11 @@ You can build a web site like this [Raspberry Pi Cookbook Sampler](http://razzpi
 
 ![images/make_site.gif](images/make_site.gif)
 
-
 # Write with a truly visual editor
 
 If you don't like plain text markup, Atlas has a beautiful visual editor.
 
-![insert_image_optimized.gif](images/insert_image_optimized.gif)
+![images/visual_editor.gif](images/visual_editor.gif)
 
 # Open source your book on GitHub
 
