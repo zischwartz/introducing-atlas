@@ -23,6 +23,8 @@ Atlas produces professional-caliber PDFs that can be printed on demand (POD) or 
 
 # Make ebooks
 
+Atlas produces both EPUB and MOBI, the formats used for the iBooks and Kindle.
+
 # Make sites
 
 
@@ -37,4 +39,4 @@ If you don't like plain text markup, Atlas has a beautiful visual editor.
 
 # Register for the beta
 
-(I'll embed the mailchimp form here)
+
