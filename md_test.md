@@ -41,6 +41,6 @@ If you don't like plain text markup, Atlas has a beautiful visual editor.
 
 Use the form below to pre-register for the Atlas beta.
 
-{% include 'mailchimp_form.html' %}
+{% include 'registration_form' %}
 
 
