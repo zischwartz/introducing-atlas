@@ -23,7 +23,7 @@
 
 # Make web sites
 
-# Add an Image
+# Write with a turly visual editor
 
 * Open the file pane
 * Find the image
@@ -31,3 +31,4 @@
 
 ![insert_image_optimized.gif](insert_image_optimized.gif)
 
+# Open source your book on GitHub
