@@ -31,6 +31,9 @@ Atlas produces both EPUB and MOBI, the formats used for the iBooks and Kindle.
 
 # Make sites
 
+You can build a web site like this [Raspberry Pi Cookbook Sampler](http://razzpisampler.oreilly.com/)
+
+![images/make_site.gif](images/make_site.gif)
 
 
 # Write with a truly visual editor
