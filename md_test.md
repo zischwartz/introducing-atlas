@@ -17,11 +17,11 @@ A tool for creating and publishing beautiful technical content
   * Mobi
   * HTML
 
-# You can make books
+# Make books
 
 # Make ebooks
 
-# Make web sites
+# Make sites
 
 # Write with a turly visual editor
 
