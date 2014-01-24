@@ -43,6 +43,10 @@ If you don't like plain text markup, Atlas has a beautiful visual editor.
 
 # Open source your book on GitHub
 
+
+
+![images/etudes_for_erlang_github.png](images/etudes_for_erlang_github.png)
+
 # Register for the beta
 
 Use the form below to pre-register for the Atlas beta.
