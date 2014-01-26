@@ -20,7 +20,7 @@
 
 # Make books
 
-Atlas produces professional-caliber PDFs that can be printed on demand (POD) or via a tradional offset process.
+Atlas produces professional quality PDFs that can be both printed on demand (POD) and by a traditional offset processes.
 
 ![images/make_book_short.gif](images/make_book_short.gif)
 
