@@ -44,7 +44,7 @@ If you don't like plain text markup, Atlas has a beautiful visual editor.
 
 # Open source your book on GitHub
 
-Because it's based on git, you can easily open your content for contrinutions from the worldwide community on GitHub, like we've done for [Etudes for Erlang](https://github.com/oreillymedia/etudes-for-erlang).
+Because it's based on git, you can easily open your content for contributions on GitHub, like we've done for [Etudes for Erlang](https://github.com/oreillymedia/etudes-for-erlang).
 
 ![images/etudes_for_erlang_github.png](images/etudes_for_erlang_github.png)
 
