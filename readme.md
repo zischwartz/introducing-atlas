@@ -32,7 +32,7 @@ Atlas produces both EPUB and MOBI, the formats used for the iBooks and Kindle.
 
 # Make sites
 
-You can build a web site like this [Raspberry Pi Cookbook Sampler](http://razzpisampler.oreilly.com/)
+You can build  web sites like Scott Murray's [Interactive Data Visualization for the Web](http://chimera.labs.oreilly.com/books/1230000000345) or the [Raspberry Pi Cookbook Sampler](http://razzpisampler.oreilly.com/)
 
 ![images/make_site.gif](images/make_site.gif)
 
