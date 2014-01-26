@@ -50,7 +50,7 @@ Because it's based on git, you can easily open your content for contributions on
 
 # Sign up now
 
-Use the form below to pre-register for the Atlas beta.
+Sign up for more information at the [https://atlas.oreilly.com/](https://atlas.oreilly.com/) or use the form below:
 
 {% include 'registration_form' %}
 
