@@ -36,6 +36,12 @@ You can build  web sites like Scott Murray's [Interactive Data Visualization for
 
 ![images/make_site.gif](images/make_site.gif)
 
+# Make presentations
+
+Use Atlas themes to create a presentation you can post online.
+
+![images/make_presentations.gif](images/make_presentations.gif)
+
 # Write in a beautiful visual editor
 
 If you don't like plain text markup, Atlas has a beautiful visual editor.
