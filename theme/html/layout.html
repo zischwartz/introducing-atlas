@@ -56,6 +56,16 @@
     $(function() {
       $.deck('.slide');
     });
+    
+    <!-- This ensures that the movies play automatically -->
+    $(document).ready(function() {
+      $(document).bind('deck.change', function(event, from, to) {
+         var previousvideo = $(".deck-current").find("video").get(0);
+         var currentvideo =  $(".deck-next").find("video").get(0);
+         if(previousvideo) previousvideo.pause();
+         if(currentvideo) currentvideo.play();
+       });
+     });
   </script>
 </body>
 </html>
