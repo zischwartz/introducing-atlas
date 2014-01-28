@@ -2,7 +2,10 @@
 
 [O'Reilly Atlas](https://atlas.oreilly.com) is a tool for creating and publishing beautiful technical content.
 
-![images/system_intro_optimized.gif](images/system_intro.gif)
+<video autoplay="true" loop="true" muted="true" width="640">
+ <source src="https://s3.amazonaws.com/orm-atlas-media/introducingatlas/system_intro.mp4" type="video/mp4" /> 
+	<source src="https://s3.amazonaws.com/orm-atlas-media/introducingatlas/system_intro.webm" type="video/webm" /> Your browser does not support the video tag.</video>
+</section>
 
 # Atlas embodies 3 key ideas
 
