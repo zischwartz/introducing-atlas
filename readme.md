@@ -31,31 +31,41 @@ Atlas produces professional quality PDFs that can be both printed on demand (POD
 Your browser does not support the video tag.</video>
 </section>
 
-![images/make_book_short.gif](images/make_book_short.gif)
-
 # Make ebooks
 
 Atlas produces both EPUB and MOBI, the formats used for the iBooks and Kindle.
 
-![images/make_book_short.gif](images/make_ebook_short.gif)
+<video autoplay="true" loop="true" muted="true" width="640">
+ <source src="https://s3.amazonaws.com/orm-atlas-media/introducingatlas/make_ebook.webm" type="video/webm" /> <source src="https://s3.amazonaws.com/orm-atlas-media/introducingatlas/make_ebook.mp4" type="video/mp4" /> 
+ Your browser does not support the video tag.</video>
+</section>
 
 # Make sites
 
 You can build  web sites like Scott Murray's [Interactive Data Visualization for the Web](http://chimera.labs.oreilly.com/books/1230000000345) or the [Raspberry Pi Cookbook Sampler](http://razzpisampler.oreilly.com/)
 
-![images/make_site.gif](images/make_site.gif)
+<video autoplay="true" loop="true" muted="true" width="640">
+ <source src="https://s3.amazonaws.com/orm-atlas-media/introducingatlas/make_site.webm" type="video/webm" /> <source src="https://s3.amazonaws.com/orm-atlas-media/introducingatlas/make_site.mp4" type="video/mp4" /> 
+ Your browser does not support the video tag.</video>
+</section>
 
 # Make presentations
 
 Use Atlas themes to create a presentation you can post online.
 
-![images/make_presentations.gif](images/make_presentations.gif)
+<video autoplay="true" loop="true" muted="true" width="640">
+ <source src="https://s3.amazonaws.com/orm-atlas-media/introducingatlas/make_presentations.webm" type="video/webm" /> <source src="https://s3.amazonaws.com/orm-atlas-media/introducingatlas/make_presentations.mp4" type="video/mp4" /> 
+ Your browser does not support the video tag.</video>
+</section>
 
 # Write in a beautiful visual editor
 
 If you don't like plain text markup, Atlas has a beautiful visual editor.
 
-![images/visual_editor.gif](images/visual_editor.gif)
+<video autoplay="true" loop="true" muted="true" width="640">
+ <source src="https://s3.amazonaws.com/orm-atlas-media/introducingatlas/visual_editor.webm" type="video/webm" /> <source src="https://s3.amazonaws.com/orm-atlas-media/introducingatlas/visual_editor.mp4" type="video/mp4" /> 
+ Your browser does not support the video tag.</video>
+</section>
 
 # Open source your book on GitHub
 
