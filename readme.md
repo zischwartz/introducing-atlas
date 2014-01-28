@@ -3,8 +3,8 @@
 [O'Reilly Atlas](https://atlas.oreilly.com) is a tool for creating and publishing beautiful technical content.
 
 <video autoplay="true" loop="true" muted="true" width="640">
- <source src="https://s3.amazonaws.com/orm-atlas-media/introducingatlas/system_intro.mp4" type="video/mp4" /> 
-	<source src="https://s3.amazonaws.com/orm-atlas-media/introducingatlas/system_intro.webm" type="video/webm" /> Your browser does not support the video tag.</video>
+ <source src="https://s3.amazonaws.com/orm-atlas-media/introducingatlas/system_intro.webm" type="video/webm" /> <source src="https://s3.amazonaws.com/orm-atlas-media/introducingatlas/system_intro.mp4" type="video/mp4" /> 
+ Your browser does not support the video tag.</video>
 </section>
 
 # Atlas embodies 3 key ideas
@@ -24,6 +24,12 @@
 # Make books
 
 Atlas produces professional quality PDFs that can be both printed on demand (POD) and by a traditional offset processes.
+
+<video autoplay="true" loop="true" muted="true" width="640">
+ <source src="https://s3.amazonaws.com/orm-atlas-media/introducingatlas/make_book.webm" type="video/webm" /> 
+ <source src="https://s3.amazonaws.com/orm-atlas-media/introducingatlas/make_book.mp4" type="video/mp4" /> 
+Your browser does not support the video tag.</video>
+</section>
 
 ![images/make_book_short.gif](images/make_book_short.gif)
 
