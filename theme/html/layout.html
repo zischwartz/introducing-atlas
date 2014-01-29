@@ -56,12 +56,15 @@
     $(function() {
       $.deck('.slide');
     });
-    
-  // This next bit ensures that the movies play automatically -->
+  </script>
+
+  <!--This next bit ensures that the movies play automatically-->
+
+  <script>
     $(document).ready(function() {
       $(document).bind('deck.change', function(event, from, to) {
-         var previousvideo = $(".deck-current").find("video").get(0);
-         var currentvideo =  $(".deck-next").find("video").get(0);
+         var previousvideo = $('.deck-current').find('video').get(0);
+         var currentvideo =  $('.deck-next').find('video').get(0);
          if(previousvideo) previousvideo.pause();
          if(currentvideo) currentvideo.play();
        });
