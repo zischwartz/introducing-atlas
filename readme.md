@@ -25,10 +25,8 @@
 
 Atlas produces professional quality PDFs that can be both printed on demand (POD) and by a traditional offset processes.
 
-<video autoplay="true" loop="true" muted="true" width="640">
- <source src="https://s3.amazonaws.com/orm-atlas-media/introducingatlas/make_a_book.webm" type="video/webm" /> 
- <source src="https://s3.amazonaws.com/orm-atlas-media/introducingatlas/make_a_book.mp4" type="video/mp4" /> 
-Your browser does not support the video tag.</video>
+<video autoplay="true" loop="true" muted="true" width="640"><source src="https://s3.amazonaws.com/orm-atlas-media/introducingatlas/make_a_book.webm" type="video/webm" /> <source src="https://s3.amazonaws.com/orm-atlas-media/introducingatlas/make_a_book.mp4" type="video/mp4" /> Your browser does not support the video tag.</video>
+
 </section>
 
 # Make ebooks
