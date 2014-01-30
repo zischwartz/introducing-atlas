@@ -22,8 +22,8 @@
       "toc": false,
       "consolidated": true,
       "javascripts": [
-          "http://static.jsbin.com/js/embed.js"
-       ]
+        "http://static.jsbin.com/js/embed.js"
+      ]
     }
   },
   "theme": "oreillymedia/oreilly_presentation_theme",
